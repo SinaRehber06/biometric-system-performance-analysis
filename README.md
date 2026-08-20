@@ -65,10 +65,3 @@ Oluşturulan grafik:
 
 biometric_analysis_results.png
 
-Proje Yapısı
-biometric-authentication-analysis/
-│
-├── biometric_analysis.ipynb
-├── Features.npz
-├── biometric_analysis_results.png
-└── README.md
